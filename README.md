@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/omaralley/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/OKALLEY/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/OKALLEY/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/omaralley/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/omaralley/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/OKALLEY/configure-ad)
-  - [Oraganizational Units (OU); Admins and Employees](https://github.com/OKALLEY/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/omaralley/configure-ad)
+  - [Oraganizational Units (OU); Admins and Employees](https://github.com/omaralley/azure-network-protocols)
 
 <h2>🔌Connect with me:</h2>
 
@@ -17,4 +17,4 @@
 
 
 [twitter]: https://twitter.com/KN0WYOURCENTER
-[linkedin]: https://www.linkedin.com/in/omar-a-580b73268/
+[linkedin]: https://www.linkedin.com/in/omaralley
