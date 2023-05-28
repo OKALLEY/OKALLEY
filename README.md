@@ -11,7 +11,7 @@
   - [Oraganizational Units (OU); Admins and Employees](https://github.com/omaralley/azure-network-protocols)
 <h2></h2>
 
-<h2>~<a href="https://github.com/OmarAlley/Certifications">Click here to see my Certifications</a>~</h2>
+<h2><a href="https://github.com/OmarAlley/Certifications"> <img src="https://imgur.com/UsOrvCU.png" height="5%" width="5%" alt="Disk Sanitization Steps"/>Click here to see my Certifications<img src="https://imgur.com/UsOrvCU.png" height="5%" width="5%" alt="Disk Sanitization Steps"/></a></h2>
 
 
 <h2>🔌Connect with me:</h2>
