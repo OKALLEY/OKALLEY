@@ -9,6 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/omaralley/configure-ad)
   - [Oraganizational Units (OU); Admins and Employees](https://github.com/omaralley/azure-network-protocols)
+<h2></h2>
+
+<h2>~<a href="https://github.com/OmarAlley/Certifications">Click here to see my Certifications</a>~</h2>
+
 
 <h2>🔌Connect with me:</h2>
 
