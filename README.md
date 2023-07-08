@@ -1,5 +1,5 @@
 <h1>Hi, I'm Omar, an <a href="https://linkedin.com/in/omaralley">IT Enthusiast</a></h1>
-Employers request an interview and view my Profile and Screening Questions: https://profile.coursecareers.com/omar.alley
+Request an interview and view my PROFILE & SCREENING QUESTIONS: https://profile.coursecareers.com/omar.alley
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
