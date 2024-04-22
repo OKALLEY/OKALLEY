@@ -1,6 +1,5 @@
 <h1>Hi, I'm Omar, an <a href="https://linkedin.com/in/omaralley">IT Enthusiast</a></h1>
-PROFILE & SCREENING QUESTIONS - Request an interview: https://profile.coursecareers.com/omar.alley
-<h2>Information Technology Projects:</h2>
+<h2><a href="https://github.com/OmarAlley/Certifications"> <img src="https://imgur.com/UsOrvCU.png" height="5%" width="5%" alt="Disk Sanitization Steps"/>Click here to see my Certifications<img src="https://imgur.com/UsOrvCU.png" height="5%" width="5%" alt="Disk Sanitization Steps"/></a></h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/omaralley/osticket-prereqs)
@@ -11,7 +10,7 @@ PROFILE & SCREENING QUESTIONS - Request an interview: https://profile.coursecare
   - [Oraganizational Units (OU); Admins and Employees](https://github.com/omaralley/azure-network-protocols)
 <h2></h2>
 
-<h2><a href="https://github.com/OmarAlley/Certifications"> <img src="https://imgur.com/UsOrvCU.png" height="5%" width="5%" alt="Disk Sanitization Steps"/>Click here to see my Certifications<img src="https://imgur.com/UsOrvCU.png" height="5%" width="5%" alt="Disk Sanitization Steps"/></a></h2>
+
 
 
 <h2>🔌Connect with me:</h2>
